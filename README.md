@@ -10,5 +10,5 @@
 - add the following to your server.cfg file : ensure smdx-inventory
 
 # Credits
-- original resouce created by : https://github.com/qbcore-redm-framework
+- original resource created by : https://github.com/qbcore-redm-framework
 - convert and rework by : https://github.com/QRCore-RedM-Re
